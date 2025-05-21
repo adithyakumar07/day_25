@@ -1,0 +1,3 @@
+x=lambda a: "* "*a
+for i in range(1,6):
+	print(x(i))
